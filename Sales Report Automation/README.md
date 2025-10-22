@@ -20,6 +20,18 @@
 - 報表自動產出（含長條圖）
 - 一鍵執行，無需手動操作
 
+### 原始資料（清理前）
+![原始資料](screenshots/original-data.png)
+
+### 清理後資料
+![清理後資料](screenshots/cleaned-data.png)
+
+### 業務員報表
+![業務員報表](screenshots/agent-report.png)
+
+### 品項報表
+![品項報表](screenshots/product-report.png)
+
 ## 技術使用
 - Google Apps Script
 - Charts 視覺化模組
